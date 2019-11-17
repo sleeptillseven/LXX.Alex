@@ -1,0 +1,172 @@
+ΡΟΥΘ - Ruth
+
+Text: 1:1 ΚΑΙ ἐγένετο ἐν ταῖς ἡμέραις ἐν τῷ κρίνειν τοὺς κριτὰς καὶ ἐγένετο λιμὸς ἐν τῇ γῇ·
+            καὶ ἐπορεύθη ἀνὴρ ἀπὸ Βηθλέεμ τῆς Ἰούδα τοῦ παροικῆσαι ἐν ἀγρῷ Μωάβ,
+            αὐτὸς καὶ ἡ γυνὴ αὐτοῦ καὶ οἱ δύο υἱοὶ αὐτοῦ.
+
+Grammar:
+καί ἐγένετο - it happened
+ἐν ταῖς ἡμέραις - prepositional phrase, expresses time 
+ἐν τῷ κρίνειν - prepositional phrase, adverbial infinitive (temporal - contemporenous time) , inf. of κρίνω - as,when, while were ruling
+τοὺς κριτὰς - acc case, subject of infinitive κρίνειν - judges/die Richter (MA 1.40)
+λιμὸς - subj. nom. sing. - famine
+ἐν τῇ γῇ - prepositional phrase, 
+ἐπορεύθη - verb aor pas 3rd singular ind. πορεύμαι to go, he went
+ἀνὴρ - subj. nom case, 
+ἀπὸ Βηθλέεμ τῆς Ἰούδα - prepositional phrase, Bethleem of Judah
+τοῦ παροικῆσαι arti gen + aor act inf παροικέω of to dwell - substantival infinitive - to dwell
+ἐν ἀγρῷ Μωάβ - prepositional phrase, dativ case, in the Land of Moab
+αὐτὸς καὶ ἡ γυνὴ αὐτοῦ - he (himself) and his wife
+οἱ δύο υἱοὶ αὐτοῦ - apposition, tr: his two sons.
+
+Translation:
+EN: 1:1 And it happend, in the days when the jugdes ruled, 
+    _that_ there was a femine in the land. 
+    And a man from Bethleem of Judah went out into the Land of Moab to dwell there, 
+    he and his wife and his two sons.
+DE: Und es geschah, in den Tagen als die Richter richteten, da gab es eine Hungersnot im Land.
+    Und ein Mann aus Bethleem in Judah zog aus um im Land Moab "vorübergehend als Fremder" zu wohnen/sich aufzuhalten,
+    er und seine Frau und seine beiden Söhne. 
+
+Text: 1:2   Καὶ ὄνομα τῷ ἀνδρὶ Ἀλιμέλεχ, καὶ ὄνομα τῇ γυναικὶ αὐτοῦ Νοεμμείν· 
+                καὶ ὄνομα τοῖς δυσὶν υἱοῖς αὐτοῦ Μααλὼν καὶ Χελεὼν, Ἐφραθαῖοι ἐκ Βηθλέεμ τῆς Ἰούδα.
+                Καὶ ἤλθοσαν εἰς ἀγρὸν Μωὰβ καὶ ἦσαν ἐκεῖ.
+
+Grammar:
+ὄνομα - subject
+τῷ ἀνδρὶ - dativ, describes object Alimelech
+Ἀλιμέλεχ - indec. object
+τῇ γυναικὶ αὐτοῦ 
+Νοεμμείν· - obj. acc
+ὄνομα τοῖς δυσὶν υἱοῖς αὐτοῦ Μααλὼν καὶ Χελεὼν, 
+Ἐφραθαῖοι ἐκ Βηθλέεμ τῆς Ἰούδα.
+ἤλθοσαν - verb aor ind 3 per pl ἔρχομαι - I go ; kommen/gehen
+εἰς ἀγρὸν Μωὰβ - prep phrase, into (εἰς) accu ἀργόν land; Land 
+ἦσαν - impr. act. ind. 3p pl - εἰμί 
+ἐκεῖ - adv. / there; dort(-hin), da(-hin)
+
+Translation:
+ENG:  And the name of the man _was_ Alimelech and the name of his wife _was_ Noemmi. And the name of his two sons _was_ Maalon und Cheleon, Epfrethites from Bethlehem of Judah. 
+DE: Und der Name des Mannes war Alimelech und der Name seiner Frau war Noemmi. Und der Name seiner beiden Söhne war Maalon und Keleon, Ephratiter aus Bethlehem in Judah.
+        Und sie sind ins Land Moab und verblieben dort.
+
+
+Text: 1:3 Καὶ ἀπέθανεν Ἀλιμέλεχ ὁ ἀνὴρ τῆς Νοεμμεὶ, καὶ κατελείφθη αὕτη καὶ οἱ δύο υἱοὶ αὐτῆς.
+
+Grammar:
+ἀπέθανεν - aor akt ind 3p sing ἀποθνῇσκω - to die / sterben
+Ἀλιμέλεχ ὁ ἀνὴρ τῆς Νοεμμεὶ - subj. nom. + gen 
+κατελείφθη αὕτη - aor pass ind 3p sing καταλείπω - to leave, verlassen, zurücklassen
+οἱ δύο υἱοὶ αὐτῆς - pl - her two sons
+
+ENG: And Alimelech the husband of Noemmi died and she has been left and her two sons.
+DE:  Und Alimelech, der Mann von Noemmi, starb und sie blieb allein und ihre beiden Söhne.
+
+
+Text: 1:4 Καὶ ἐλάβοσαν ἑαυτοῖς γυναῖκας Μωαβίτιδας· ὄνομα τῇ μιᾷ Ὀρφά· καὶ ὄνομα τῇ δευτέρᾳ Ῥούθ· καὶ κατῴκησαν ἐκεῖ ὡς δέκα ἔτη.
+
+Grammar:
+ἐλάβοσαν - aor akt ind 3p pl λαμβάνω - to take, receive / nehmen
+ἑαυτοῖς γυναῖκας Μωαβίτιδας·
+ὄνομα τῇ μιᾷ Ὀρφά·
+ὄνομα τῇ δευτέρᾳ Ῥούθ·
+κατῴκησαν ἐκεῖ ὡς δέκα ἔτη. - aor akt ind 3p pl κατοικέω 
+
+Translation:
+ENG: And they took for themselves women from Moab. The name of one was Orpha und der Name of the second was Ruth. And they stayed there for 10 years.
+DE: Uns sie nahmen sich moabitische Frauen. Der Name einer war Orpha; der Name der zweiten Ruth; und sie blieben dort etwa 10 Jahre.
+
+
+Text: 1:5 Καὶ ἀπέθαναν ἀμφότεροι, Μααλὼν καὶ Χελεών· καὶ κατελείφθη ἡ γυνὴ ἀπὸ τοῦ ἀνδρὸς αὐτῆς καὶ ἀπὸ τῶν δύο υἱῶν αὐτῆς
+
+Grammar:
+καὶ ἀπέθαναν - aor akt ind 3p pl ἀποθνῇσκω - to die, sterben
+καὶ γε ἀμφότεροι, - part+adj. even both, sogar beide - emphesis
+Μααλὼν καὶ Χελεών· - Maalon and Keleon
+κατελείφθη ἡ γυνὴ - aor pas ind 3p sing - to leave behin/zurücklassen, woman subj nom.
+ἀπὸ τοῦ ἀνδρὸς αὐτῆς - prepositional phrase
+ἀπὸ τῶν δύο υἱῶν αὐτῆς - prepositional phrase
+
+Translation:
+ENG: And so even Maalon and Keleon died and the woman was left behind by her husband and her two sons.
+DE: Und auch die beiden starben, Maalon und Keleon. Und die Frau wurde zurückgelassen von ihrem Mann und ihren beiden Söhnen.
+
+Text: 1:6 Καὶ ἀνέστη αὕτη καὶ αἱ δύο νύμφαι αὐτῆς καὶ ἐπέστρεψαν ἐξ ἀγροῦ Μωάβ, ὅτι ἤκουσαν ἐν ἀγρῷ Μωὰβ ὅτι ἐπέσκεπται Κύριος τὸν λαὸν αὐτοῦ, δοῦναι αὐτοῖς ἄρτους.
+
+Grammar:
+Καὶ ἀνέστη αὕτη - aor akt ind 3p sing ἀνιστεμι
+καὶ αἱ δύο νύμφαι αὐτῆς - 
+καὶ ἐπέστρεψαν - aor akt ind 3p sing ἀποστρέφω - to turn back/sich abwenden
+ἐξ ἀγροῦ Μωάβ, - prep phrase 
+ὅτι ἤκουσαν - aor akt ind 3p plur ἀκούω
+ἐν ἀγρῷ Μωὰβ - prep phrase
+ὅτι ἐπέσκεπται Κύριος τὸν λαὸν αὐτοῦ, - perf mid/pas ind 3p sing ἐπισκεπτομαι to visit
+δοῦναι αὐτοῖς ἄρτους. - aor akt inf δίδωμι to give, akkusativ plural subjekt vom Infitiv.
+
+Translation:
+EN: And sie rose up and both her daugthers in law
+        and they turned away out of the Land of Moab,
+        because they heard in the Land of Moab, that
+        the Lord has visited his people,
+        to give them  bread.
+
+DE:  Und sie stand auf und ihre beiden Schwiegertöchter 
+        und wanden sich heraus aus dem Land Moab,
+        weil sie hörten im Land Moab,
+        dass der Herr sein Volk besucht hat,
+        ihm Brot zu geben.
+
+Text: 1:7 Καὶ ἐξῆλθαν ἐκ τοῦ τόπου οὗ ἧσαν ἐκεῖ, καὶ αἱ δύο νύμφαι αὐτῆς μετ’ αὐτῆς·
+                καὶ ἐπορεύοντο ἐν τῇ ὁδῷ τοῦ ἐπιστρέψαι εἰς γῆν Ἰούδα.
+Grammar:
+Καὶ ἐξῆλθαν - aor akt ind 3p plur ἐξέρχομαι - to go 
+ἐκ τοῦ τόπου - place/Ort
+οὗ ἧσαν ἐκεῖ, - particle (not/nicht) + imp akt ind 3p plural εἰμί + adv (there/dort)
+καὶ αἱ δύο νύμφαι αὐτῆς μετ’ αὐτῆς· - and the two daughters with her
+καὶ ἐπορεύοντο - imp mid/pas ind 3p pl (gehen)
+ἐν τῇ ὁδῷ τοῦ ἐπιστρέψαι - prep phrase - on the way - inf gen+ ἐπιστρέφω - of returning
+εἰς γῆν Ἰούδα - prep phrase - into the land of Juda
+
+Translation:
+EN: And they went away from the place and were not there,
+        the both her daughters-in-law with her; 
+        and the were going on the way of return into the land of Judah.
+DE: Und sie gingen heraus aus dem Ort _und_ waren nicht mehr dort, ihre beiden Töchter mit ihr;
+        und sie gingen auf dem Weg der Rückkehr ins Land Judah.
+
+Text: 1:8 Καὶ εἶπεν Νοομμεὶ ταῖς δυσὶ νύμφαις αὐτῆς πορεύθητε δὴ,
+                ἀποστράφητε δὴ ἑκάστη εἰς τὸν οἶκον τοῦ πατρὸς αὐτῆς· 
+                ποιήσαι Κύριος μεθ’ ὑμῶν ἔλεος, καθὼς ἐποιήσατε μετὰ τῶν τεθνηκότων καὶ μετ’ ἐμοῦ·
+
+Grammar:
+Καὶ εἶπεν Νοομμεὶ
+ταῖς δυσὶ νύμφαις αὐτῆς
+πορεύθητε δὴ - imperativ present m/p of to go, walk
+ἀποστράφητε δὴ ἑκάστη - aor passiv imperativ of turn away
+εἰς τὸν οἶκον τοῦ πατρὸς αὐτῆς· - prep phrase, 
+ποιήσαι Κύριος μεθ’ ὑμῶν ἔλεος, - aor akt optative of to do/make; Mitleid, Erbarmen, Barmherzitkeit,
+καθὼς - as/just as
+ἐποιήσατε - aor akt ind to make/do 
+ μετὰ τῶν τεθνηκότων καὶ μετ’ ἐμοῦ· - 
+
+
+Translation:
+EN: 
+DE: Und Noommi sprach zu ihren zwei Schwiegertöchtern, "nun geht, eine jede kehre jetzt um ins Haus ihres Vaters;
+der Herr möge euch Bermherzigkeit zeigen, so wie ihr mit den Gestorbenen und mit mir hattet.
+
+
+
+Text: 1:9 δῷη Κύριος ὑμῖν καὶ εὕρητε ἀνάπαυσιν ἑκάστη ἐν οἴκῳ ἀνδρὸς αὐτῆς.
+                καὶ κατεφίλησεν αὐτάς· καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν.
+Grammar:
+δῷη Κύριος ὑμῖν - 
+καὶ εὕρητε ἀνάπαυσιν ἑκάστη - 
+ἐν οἴκῳ ἀνδρὸς αὐτῆς. - prepositional phrase: 
+καὶ κατεφίλησεν αὐτάς· - 
+καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν. - 
+
+
+Text: 1:10 Καὶ εἶπαν αὐτῇ Μετὰ σοῦ ἐπιστρέψομεν εἰς τὸν λαόν σου.
+Grammar:
+

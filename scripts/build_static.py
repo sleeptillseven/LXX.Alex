@@ -5,6 +5,7 @@ from roman_numerals import convert_to_numeral
 WORK_LIST = [
     "10.Ruth",
     #"19.Esther",
+    "27.Psalmoi",
     #"36.Osee",
     #"37.Amos",
     #"38.Michaeas",
@@ -23,18 +24,19 @@ WORK_LIST = [
 ]
 
 TITLES = {
-    "10": "RUTH",
+    "10": "ΡΟΥΘ",
     "19": "ESTHER",
+    "27": "ΨΑΛΤΗΡΙΟΝ",
     "36": "OSEE",
     "37": "AMOS",
     "38": "Michaeas",
     "39": "Joel",
-    "40": "Abdias",
-    "41": "Jonas",
-    "42": "Nahum",
+    "40": "AΒΔEΙΟΥ",
+    "41": "ΙΩΝΑΣ",
+    "42": "ΝΑΟΥΜ",
     "43": "Habacuc",
-    "44": "Sophonias",
-    "45": "Aggaeus",
+    "44": "ΣΟΦΟΝΙΑΣ",
+    "45": "ΑΓΓΑΙΟΣ",
     "46": "Zacharias",
     "47": "Malachias",
     "55": "Susanna_(Theodotionis_versio)",
